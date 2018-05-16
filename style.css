@@ -1,20 +1,33 @@
 body{
   background-color: blue;
 }
+main{
 
+}
 h1{
   text-align: center;
 }
-h2{
-  text-align:
+h3{
+  text-align:center;
+  margin-left:15px;
+  border-left:5px solid black;
+  color:#000000;
+}
+#title{
+
+
+
 
 }
-margin-left:15px;
-border-left:5px solid black;
-color:#00008b;
-/*
-thing{
-  property: value;
-  other: value;
+.article{
+
+
+
 }
-*/
+
+.social{
+
+
+
+
+}
