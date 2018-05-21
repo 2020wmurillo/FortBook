@@ -39,7 +39,7 @@ h3{
     position: relative;
     width:50%
 }
-.container img{
+.container .img{
 width:100%
 height:auto;
 }
@@ -48,13 +48,4 @@ height:auto;
     position:absolute;
     top:50%;
     left:50%;
-
-
-
-
-
-
-
-
-
 }
